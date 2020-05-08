@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+  padding-bottom: 3em;
+}
+.row {
+  height: 100px;
+  width: 302px;
+  clear: both;
+  margin: auto;
+}
+.board {
+    padding-top: 0em;
+    text-align: center;
+}
+.top {
+    border-bottom: black 1px solid;
+    float: left;
+}
+
+.middle {
+    float: left;
+    
+}
+
+.bottom {
+    border-top: black 1px solid;
+    float: left;
+}
+
+.left {
+  border-right: black 1px solid;
+  height: 100px;
+  width: 100px;
+}
+
+.center {
+    border-right: black 1px solid;
+    height: 100px;
+    width: 100px;
+}
+
+.right {
+    height: 100px;
+    width: 100px;
+    
+}
+
+/* .top .left {
+    height: 100px;
+    width: 100px;
+} */
